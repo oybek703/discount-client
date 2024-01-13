@@ -1,0 +1,45 @@
+{
+  "header": {
+    "navigation": {
+      "discounts": "Chegirmalar",
+      "shops": "Do'konlar",
+      "contacts": "Kontakt"
+    },
+    "user": {
+      "account": "Akkaunt",
+      "login": "Kirish",
+      "register": "Registratsiya",
+      "profile": "Profil",
+      "logout": "Chiqish"
+    }
+  },
+  "auth": {
+    "username": "Foydalanuvchi nomi",
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "email": "Elektron pochta",
+    "phoneNumber": "Telefon raqam",
+    "password": "Parol",
+    "sendBtn": "Jo'natish",
+    "doNotHaveAccount": "Akkauntingiz bormi?",
+    "alreadyHaveAccount": "Akkauntingiz yo'qmi?",
+    "minLength": "Minimum {minLength} belgi."
+  },
+  "titles": {
+    "homePageTitle": "TopAksiya - arzonini toping!"
+  },
+  "pages": {
+    "profile": {
+      "title": "Akkaunt sozlamalari",
+      "favorites": "Sevimlilar",
+      "myAds": "Mening e'lonlarim",
+      "update": "Yangilash",
+      "changesSaved": "O'zgartirishlar saqlandi!"
+    }
+  },
+  "backToMain": "Bosh sahifa",
+  "pageNotFound": "Xatolik - 404! Sahifa topilmadi!",
+  "searchPlaceholder": "Chegirmalar va do'konlar...",
+  "footerText": "Aksiyalar, chegirmalar va do’konlar katalogi.",
+  "mainPageKeywords": "topaksiya.uz, chegirma.uz, aksiya.uz aksiyalar, chegirmalar, do'konlar, arzon mahsulotlar, arzon"
+}

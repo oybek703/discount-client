@@ -1,0 +1,45 @@
+{
+  "header": {
+    "navigation": {
+      "discounts": "Скидки",
+      "shops": "Магазины",
+      "contacts": "Контакты"
+    },
+    "user": {
+      "account": "Аккаунт",
+      "login": "Войти",
+      "register": "Регистрация",
+      "profile": "Профиль",
+      "logout": "Выйти"
+    }
+  },
+  "auth": {
+    "username": "Имя пользователя",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "email": "Электронная почта",
+    "phoneNumber": "Номер телефона",
+    "password": "Пароль",
+    "sendBtn": "Отправить",
+    "doNotHaveAccount": "У вас нет учетной записи?",
+    "alreadyHaveAccount": "У вас уже есть аккаунт?",
+    "minLength": "Минимум {minLength} символов."
+  },
+  "titles": {
+    "homePageTitle": "TopAksiya - найди дешевле!"
+  },
+  "pages": {
+    "profile": {
+      "title": "Настройки аккаунта",
+      "favorites": "Избранное",
+      "myAds": "Мои объявления",
+      "update": "Обновить",
+      "changesSaved": "Изменения сохранены!"
+    }
+  },
+  "backToMain": "Главная страница",
+  "pageNotFound": "Ошибка - 404! Страница не найдена!",
+  "searchPlaceholder": "Cкидки и магазины...",
+  "footerText": "Каталог акций, скидок и магазинов.",
+  "mainPageKeywords": "topaskiya.ru, aksiya.ru, chegirma.ru, акции, скидки, магазины, дешевые товары, дешево"
+}

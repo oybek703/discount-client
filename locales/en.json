@@ -1,0 +1,45 @@
+{
+  "header": {
+    "navigation": {
+      "discounts": "Discounts",
+      "shops": "Shops",
+      "contacts": "Contacts"
+    },
+    "user": {
+      "account": "Account",
+      "login": "Login",
+      "register": "Register",
+      "profile": "Profile",
+      "logout": "Logout"
+    }
+  },
+  "auth": {
+    "username": "Username",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phoneNumber": "Phone number",
+    "password": "Password",
+    "sendBtn": "Send",
+    "doNotHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "minLength": "Minimum {minLength} characters."
+  },
+  "titles": {
+    "homePageTitle": "TopAksiya - find cheaper!"
+  },
+  "pages": {
+    "profile": {
+      "title": "Account settings",
+      "favorites": "Favorites",
+      "myAds": "My announcements",
+      "update": "Update",
+      "changesSaved": "Changes saved!"
+    }
+  },
+  "backToMain": "Main page",
+  "pageNotFound": "Error - 404! Page not found!",
+  "searchPlaceholder": "Discounts and shops...",
+  "footerText": "Catalog of promotions, discounts and stores.",
+  "mainPageKeywords": "topaksiya.uz, aksiya.uz, promotions, discounts, shops, cheap products, cheap"
+}
